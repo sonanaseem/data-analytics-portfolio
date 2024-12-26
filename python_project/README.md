@@ -1,7 +1,7 @@
 # University Analysis Project
 
 ## Overview
-This project analyzes university data to uncover key insights such as rankings, performance metrics, and trends by country. It utilizes Python's data manipulation and visualization libraries to process and present the findings.
+This project analyzes university data to uncover key insights such as rankings, performance metrics, and trends by country for the years from 2011 to 2016. It utilizes Python's data manipulation and visualization libraries to process and present the findings.
 
 ---
 
@@ -23,15 +23,18 @@ This project analyzes university data to uncover key insights such as rankings, 
 ---
 
 ## Dataset
-- **Source**: [Dataset name/source]
+- **Source**: Kaggle
 - **Key Columns**:
   - `University Name`
   - `Country`
   - `Rank`
   - `Score`
-  - `Category`
+  - `Year`
 
 ---
 
-## Project Structure
+## Key Insights
+- The top-ranking university globally is **California Institute of Technology**.
+- **United States of America** has the highest number of top-ranking universities.
+- Identified performance trends in areas like research and teaching.
 
