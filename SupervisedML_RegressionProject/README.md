@@ -22,9 +22,11 @@ Data Preprocessing:
 
 Handling null values.
 Standardization of numerical features using StandardScaler.
+
 Visualization:
 
 Seaborn and Matplotlib used for graphical representation of trends and distributions.
+
 Models:
 
 Linear Regression
@@ -32,9 +34,11 @@ K-Nearest Neighbors (KNN) Regressor
 Decision Tree Regressor
 Random Forest Regressor
 Support Vector Regressor (SVR)
+
 Evaluation Metrics:
 
 Mean Squared Error (MSE)
 R² Score
+
 ## Results
 The analysis identified pollutant patterns and evaluated regression models. The best-performing model for AQI prediction was Decision Tree Regressor, achieving an R² score of 1.
